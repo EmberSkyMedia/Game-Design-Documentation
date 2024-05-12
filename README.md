@@ -1,2 +1,2 @@
-# Game-Design-Documentation
+# Game Design Documentation
 Drafts/Final publications of the Game Design Document
